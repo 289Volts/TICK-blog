@@ -70,12 +70,12 @@ body {
   background-color: var(--apple);
   border: none;
 }
-.buttons__apple button a {
+.buttons__apple a {
   color: var(--whiteText);
   text-decoration: none;
 }
 
-.buttons__google button {
+.buttons__google a {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -87,11 +87,11 @@ body {
   background-color: var(--google);
   border: none;
 }
-.buttons__google button a {
+.buttons__google a {
   color: var(--whiteText);
   text-decoration: none;
 }
-.buttons__github button {
+.buttons__github a {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -103,12 +103,12 @@ body {
   background-color: var(--github);
   border: none;
 }
-.buttons__github button a {
+.buttons__github a {
   color: var(--whiteText);
   text-decoration: none;
 }
 
-.buttons__twitter button {
+.buttons__twitter a {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -120,7 +120,7 @@ body {
   background-color: var(--twitter);
   border: none;
 }
-.buttons__twitter button a {
+.buttons__twitter a {
   color: var(--whiteText);
   text-decoration: none;
 }
@@ -159,7 +159,7 @@ form label {
 }
 form .full input {
   border-radius: 0.5rem;
-  border: 1px solid rgba(34, 34, 17, 0.9);
+  border: 2px solid #9d9d9d;
   outline: 0;
   padding: 1rem;
   width: 100%;
@@ -168,6 +168,10 @@ form .full input {
   font-size: 1rem;
   margin-bottom: 2.5rem;
   color: var(--placeholderText);
+}
+form .full input:focus {
+  outline: none;
+  border-color: rgb(110, 110, 218);
 }
 .form__checkbox {
   display: flex;
