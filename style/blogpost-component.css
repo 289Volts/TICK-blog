@@ -40,7 +40,7 @@ body {
   background-color: var(--bodyBg);
   position: absolute;
   width: 100%;
-  height: 46px;
+  height: 2.875rem;
   top: 0;
 }
 .profile-background {
