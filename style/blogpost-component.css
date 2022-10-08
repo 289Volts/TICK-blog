@@ -112,10 +112,10 @@ body {
     width: 100%;
     justify-content: center;
     flex-direction: row;
-    margin: 0 auto;
   }
   .bg-grey {
     width: 100%;
+    margin: 0 auto;
   }
   .container__second {
     display: none;
