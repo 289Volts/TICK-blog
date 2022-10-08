@@ -57,24 +57,25 @@ body {
   align-items: center;
   width: 100%;
 } */
-.buttons__apple button {
+.buttons__apple a {
   display: flex;
   align-items: center;
   justify-content: center;
   padding: 1rem 1rem;
   width: 100%;
+  color: var(--whiteText);
   margin: 0 auto;
   border-radius: 0.5rem;
   margin-bottom: 1.2rem;
   background-color: var(--apple);
   border: none;
 }
-.buttons__apple button a {
+.buttons__apple a {
   color: var(--whiteText);
   text-decoration: none;
 }
 
-.buttons__google button {
+.buttons__google a {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -86,11 +87,11 @@ body {
   background-color: var(--google);
   border: none;
 }
-.buttons__google button a {
+.buttons__google a {
   color: var(--whiteText);
   text-decoration: none;
 }
-.buttons__github button {
+.buttons__github a {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -102,12 +103,12 @@ body {
   background-color: var(--github);
   border: none;
 }
-.buttons__github button a {
+.buttons__github a {
   color: var(--whiteText);
   text-decoration: none;
 }
 
-.buttons__twitter button {
+.buttons__twitter a {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -119,7 +120,7 @@ body {
   background-color: var(--twitter);
   border: none;
 }
-.buttons__twitter button a {
+.buttons__twitter a {
   color: var(--whiteText);
   text-decoration: none;
 }
@@ -144,7 +145,7 @@ form {
   margin-top: 3.125rem;
   margin-left: auto;
   margin-right: auto;
-  max-width: 100%;
+  /* max-width: 100%; */
   border-radius: 0.25rem;
 }
 form label {
@@ -158,7 +159,7 @@ form label {
 }
 form .full input {
   border-radius: 0.5rem;
-  border: 1px solid rgba(34, 34, 17, 0.9);
+  border: 2px solid #9d9d9d;
   outline: 0;
   padding: 1rem;
   width: 100%;
@@ -167,6 +168,10 @@ form .full input {
   font-size: 1rem;
   margin-bottom: 2.5rem;
   color: var(--placeholderText);
+}
+form .full input:focus {
+  outline: none;
+  border-color: rgb(110, 110, 218);
 }
 .form__checkbox {
   display: flex;
@@ -244,7 +249,7 @@ hr {
     font-family: "Inter", sans-serif;
     font-weight: 500;
     color: var(--bodyText);
-    background-color: var(--bodyBg);
+    /* background-color: var(--bodyBg); */
   }
   .container__pspan a {
     color: var(--accent);
@@ -256,7 +261,7 @@ hr {
 }
 @media screen and (min-width: 1025px) {
   .container {
-    max-width: 600px;
+    max-width: 37.5rem;
     margin-top: 6rem;
     margin-bottom: 4rem;
   }
@@ -267,7 +272,7 @@ hr {
     font-family: "Inter", sans-serif;
     font-weight: 500;
     color: var(--bodyText);
-    background-color: var(--bodyBg);
+    /* background-color: var(--bodyBg); */
   }
   .container__pspan a {
     color: var(--accent);
