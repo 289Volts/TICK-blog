@@ -35,7 +35,7 @@ Our team is distributed around the world and we come together each day <br> to b
 
 - GitHub: [289Volts](https://github.com/289volts)
 - Twitter: [@289volts](https://twitter.com/289volts)
-- LinkedIn: [Joshua-Roland](https://www.linkedin.com/in/Joshua-Roland)
+- LinkedIn: [Joshua Roland](https://www.linkedin.com/in/Joshua-Roland)
 
 ### Contributor
 
