@@ -29,13 +29,13 @@ Load the page and enjoy!
 ## The Team
 Our team is distributed around the world and we come together each day <br> to build the community and improve the software careers of millions.
 
-### Contributor
+### Team Lead
 
-👤 **Victoria Adedayo**
+👤 **Joshua Roland**
 
-- GitHub: [VictoriaAde](https://github.com/VictoriaAde)
-- Twitter: [@Vickish11](https://twitter.com/Vickish11)
-- LinkedIn: [Victoria-Adedayo](https://www.linkedin.com/in/victoria-adedayo)
+- GitHub: [VictoriaAde](https://github.com/289volts)
+- Twitter: [@Vickish11](https://twitter.com/289volts)
+- LinkedIn: [Victoria-Adedayo](https://www.linkedin.com/in/Joshua-Roland)
 
 ### Contributor
 
