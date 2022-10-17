@@ -33,9 +33,9 @@ Our team is distributed around the world and we come together each day <br> to b
 
 👤 **Joshua Roland**
 
-- GitHub: [VictoriaAde](https://github.com/289volts)
-- Twitter: [@Vickish11](https://twitter.com/289volts)
-- LinkedIn: [Victoria-Adedayo](https://www.linkedin.com/in/Joshua-Roland)
+- GitHub: [289Volts](https://github.com/289volts)
+- Twitter: [@289volts](https://twitter.com/289volts)
+- LinkedIn: [Joshua-Roland](https://www.linkedin.com/in/Joshua-Roland)
 
 ### Contributor
 
