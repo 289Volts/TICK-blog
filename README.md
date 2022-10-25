@@ -37,14 +37,6 @@ Our team is distributed around the world and we come together each day <br> to b
 - Twitter: [@289volts](https://twitter.com/289volts)
 - LinkedIn: [Joshua Roland](https://www.linkedin.com/in/Joshua-Roland)
 
-### Contributor
-
-👤 **Victoria Adedayo**
-
-- GitHub: [VictoriaAde](https://github.com/VictoriaAde)
-- Twitter: [@Vickish11](https://twitter.com/Vickish11)
-- LinkedIn: [Victoria-Adedayo](https://www.linkedin.com/in/victoria-adedayo)
-
 
 ### Contributor
 
@@ -53,6 +45,16 @@ Our team is distributed around the world and we come together each day <br> to b
 - GitHub: [VictoriaAde](https://github.com/VictoriaAde)
 - Twitter: [@Vickish11](https://twitter.com/Vickish11)
 - LinkedIn: [Victoria-Adedayo](https://www.linkedin.com/in/victoria-adedayo)
+
+
+### Contributor
+
+👤 **Offia Ngozi**
+
+- GitHub: [Ngozi1](https://github.com/Ngozi1)
+- Twitter: [@OffiaNgozi](https://twitter.com/OffiaNgozi?t=yKL6SGml2lgscP1Ue15qZg&s=09)
+- LinkedIn: [ngozi-offia](https://www.linkedin.com/in/ngozi-offia-33738218b)
+
 
 
 ### Contributor
