@@ -59,11 +59,11 @@ Our team is distributed around the world and we come together each day <br> to b
 
 ### Contributor
 
-👤 **Victoria Adedayo**
+👤 **Sakina Aliyu**
 
-- GitHub: [VictoriaAde](https://github.com/VictoriaAde)
-- Twitter: [@Vickish11](https://twitter.com/Vickish11)
-- LinkedIn: [Victoria-Adedayo](https://www.linkedin.com/in/victoria-adedayo)
+- GitHub: [Sakina-Aliyu](https://github.com/Sakina-Aliyu)
+- Twitter: [@SakinaYari](https://twitter.com/SakinaYari)
+- LinkedIn: [Sakina(Yari)Aliyu](https://www.linkedin.com/in/sakina-aliyu)
 
 
 ### Contributor
